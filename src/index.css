@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --font-logo: 'Old Standart TT';
+    --font-main: 'Libre Baskerville';
+    --text-small: 10px;
+    --text-normal: 14px;
+    --text-bigger: 17px;
+}
